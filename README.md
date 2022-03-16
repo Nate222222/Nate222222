@@ -27,7 +27,12 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nate222222&show_icons=true&locale=en&layout=compact" alt="Nate222222" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nate222222&show_icons=true&locale=en" alt="Nate222222" /></p>
+<p align="center" >
+<a href="https://github.com/Nate222222/github-readme-stats"> 
+    <img  src="https://github-readme-stats.vercel.app/api?username=Nate222222&&show_icons=true&theme=radical"/>
+  </a>
+
+</p>
 
 <p align="center">
   <a href="https://github.com/Nate222222/github-readme-streak-stats">
