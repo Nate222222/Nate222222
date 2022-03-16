@@ -31,6 +31,6 @@
 
 <p align="center">
   <a href="https://github.com/Nate222222/github-readme-streak-stats">
-    <img alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=monokai-metallian&hide_border=true"/>
+    <img alt="Nate222222" src="https://github-readme-streak-stats.herokuapp.com/?user=Nate222222&theme=monokai-metallian&hide_border=true"/>
   </a>
   
