@@ -38,4 +38,11 @@
   <a href="https://github.com/Nate222222/github-readme-streak-stats">
     <img alt="Nate222222" src="https://github-readme-streak-stats.herokuapp.com/?user=Nate222222&theme=monokai-metallian&hide_border=true"/>
   </a>
+  <p align="center" >
+    <a href="https://github.com/Nate222222/github-readme-stats"> 
+  ![Most Used Languages](https://raw.githubusercontent.com/Nate222222/github-stats-transparent/output/generated/languages.svg)
+       </a>
+
+</p>
+
   
