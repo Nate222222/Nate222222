@@ -1,8 +1,8 @@
-![MasterHead](https://media.giphy.com/media/qfF4Q1q6g4QRW/giphy.gif)
+![MasterHead](https://steamuserimages-a.akamaihd.net/ugc/170412021733266950/1CD0513C34E143D362389DD0D9F2CC0B3BBB2123/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
 <h2 align="center"> Hey there <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> I'm Nathan Fernando </h2>
 <h3 align="center">An Enthusiast in Mobile Application and Web Development</h3>
 
-<img align="right" alt="GIF" width="400" height="400" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" />
+<img align="right" alt="GIF" width="400" height="300" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nate222222&label=Profile%20views&color=0e75b6&style=flat" alt="Nate222222" /> </p>
 
 
@@ -27,7 +27,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nate222222&show_icons=true&locale=en&layout=compact" alt="Nate222222" /></p>
 
-<p align="center" >
+<p align="right" >
 <a href="https://github.com/Nate222222/github-readme-stats"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=Nate222222&&show_icons=true&theme=radical"/>
   </a>
