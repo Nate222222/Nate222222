@@ -6,7 +6,12 @@
 - 🔭 I’m currently Studying at University of westminster
 - 📄 Always ready to learn new things
 - 📫 How to reach me **nathanfernando001@gmail.com**
-- 💬 Ask me about Python, Java, Kotlin
 - 👨‍💻 Visit my presonal website
 - ⚡ Fun fact **I love to workout and create youtube videos**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/JB_NathanFdo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Nathan_nf" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nathan-fernando-140609222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nathan-fernando-140609222" height="30" width="40" /></a>
+</p>
 
