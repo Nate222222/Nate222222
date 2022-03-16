@@ -24,7 +24,7 @@
   
 <h3 align="left"> <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Github Info:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nate222222&show_icons=true&locale=en&layout=compact" alt="Nate222222" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nate222222&show_icons=true&locale=en&layout=compact" alt="Nate222222" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nate222222&show_icons=true&locale=en" alt="Nate222222" /></p>
 
