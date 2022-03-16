@@ -1,7 +1,7 @@
 <h2 align="center"> Hey there <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> I'm Nathan Fernando </h2>
 <h3 align="center">An Enthusiast in Mobile Application and Web Development</h3>
 
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/12237687-Ashitaka-riding-his-elk-Yakul">
+<img align="right" alt="Coding" width="400" src="https://dribbble.com/Nate2001/collections/5569929-Anime?utm_source=Clipboard_%22clipboard_collection%22&utm_campaign=%22Nate2001%22&utm_content=%22Anime%22&utm_medium=Social_Share">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nate222222&label=Profile%20views&color=0e75b6&style=flat" alt="Nate222222" /> </p>
 
 
