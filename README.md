@@ -15,6 +15,6 @@
 <a href="https://linkedin.com/in/nathan-fernando-140609222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nathan-fernando-140609222" height="30" width="40" /></a>
 | Second Channel |
 <a href="https://www.youtube.com/channel/UCciFvQQ3rnqLJQmdQorsxhw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Nate" height="30" width="40" /></a>
-<a href="mailto:nathanfernando001@gmail.com"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Natemail" height="30" width="40" /></a>
+<a href="mailto:nathanfernando001@gmail.com"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/mail.svg" alt="Natemail" height="30" width="40" /></a>
 </p>
 
