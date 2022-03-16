@@ -5,8 +5,8 @@
 
 - 🔭 I’m currently Studying at University of westminster
 - 📄 Always ready to learn new things
-- 📫 How to reach me - **nathanfernando001@gmail.com**
-- 👨‍💻 Visit my presonal website -
+- 📫 How to reach me  **nathanfernando001@gmail.com**
+- 👨‍💻 Visit my presonal website 
 - ⚡ Fun fact **I love to workout and create youtube videos**
 
 <h3 align="left">Connect with me:</h3>
