@@ -1,7 +1,7 @@
 <h2 align="center"> Hey there <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> I'm Nathan Fernando </h2>
 <h3 align="center">An Enthusiast in Mobile Application and Web Development</h3>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/xJsyEFNQnK5Us/giphy.gif" />
+<img align="right" alt="GIF" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fanime-hacking-speed-fast-gif-22746564&psig=AOvVaw1irwImJLEx2JKMARYyAZZc&ust=1647510156862000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMjkyOGryvYCFQAAAAAdAAAAABAR" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nate222222&label=Profile%20views&color=0e75b6&style=flat" alt="Nate222222" /> </p>
 
 
