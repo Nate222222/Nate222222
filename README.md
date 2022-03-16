@@ -40,9 +40,4 @@
   </a>
   
 </p>
-<p align="center" >
-    <a href="https://github.com/Nate222222/github-readme-stats"> 
-  ![Most Used Languages](https://raw.githubusercontent.com/Nate222222/github-stats-transparent/output/generated/languages.svg)
-       </a>
-  </p>
-  
+
