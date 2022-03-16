@@ -3,7 +3,7 @@
 <h4 align="center">An Enthusiast in Mobile Application and Web Development</h4>
 
 
-- 🔭 I’m currently working on Mobile Application Development
-- 🌱 I’m currently learning 
+- 🔭 I’m currently Studying at University of westminster
+- 🌱 I’m currently learning Mobile Application Development
 - 👯 I’m looking to collaborate on open Source Projects
 - 💬 Ask me about Python, Java, Kotlin
