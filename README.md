@@ -4,9 +4,9 @@
 
 
 - 🔭 I’m currently Studying at University of westminster
-- 📄 I’m currently learning Mobile Application Development
+- 📄 Always ready to learn new things
 - 📫 How to reach me **nathanfernando001@gmail.com**
 - 💬 Ask me about Python, Java, Kotlin
-- 👨‍💻 Visit my website
-- ⚡ Fun fact **I love to workout**
+- 👨‍💻 Visit my presonal website
+- ⚡ Fun fact **I love to workout and create youtube videos**
 
