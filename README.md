@@ -1,8 +1,8 @@
-![MasterHead](https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif)
+![MasterHead](https://media.giphy.com/media/1oF1KAEYvmXBMo6uTS/giphy.gif)
 <h2 align="center"> Hey there <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> I'm Nathan Fernando </h2>
 <h3 align="center">An Enthusiast in Mobile Application and Web Development</h3>
 
-<img align="right" alt="GIF" width="400" height="300" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" />
+<img align="right" alt="GIF" width="300" height="300" src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nate222222&label=Profile%20views&color=0e75b6&style=flat" alt="Nate222222" />  </p>
 
 
@@ -27,7 +27,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nate222222&show_icons=true&locale=en&layout=compact" alt="Nate222222" /></p>
 
-<p align="right" >
+<p align="left" >
 <a href="https://github.com/Nate222222/github-readme-stats"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=Nate222222&&show_icons=true&theme=radical"/>
   </a>
