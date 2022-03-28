@@ -1,4 +1,4 @@
-![MasterHead](https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif)
+![MasterHead](https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif)
 <h2 align="center"> Hey there <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> I'm Nathan Fernando </h2>
 <h3 align="center">An Enthusiast in Mobile Application and Web Development</h3>
 
