@@ -2,7 +2,7 @@
 <h2 align="center"> Hey there <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> I'm Nathan Fernando </h2>
 <h3 align="center">An Enthusiast in Mobile Application and Web Development</h3>
 
-<img align="right" alt="GIF" width="400" height="300" src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" />
+<img align="right" alt="GIF" width="500" height="300" src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nate222222&label=Profile%20views&color=0e75b6&style=flat" alt="Nate222222" />  </p>
 
 
