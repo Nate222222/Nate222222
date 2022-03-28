@@ -1,4 +1,4 @@
-![MasterHead](https://steamuserimages-a.akamaihd.net/ugc/170412021733266950/1CD0513C34E143D362389DD0D9F2CC0B3BBB2123/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
+![MasterHead](https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif)
 <h2 align="center"> Hey there <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> I'm Nathan Fernando </h2>
 <h3 align="center">An Enthusiast in Mobile Application and Web Development</h3>
 
@@ -34,10 +34,4 @@
 
 </p>
 
-<p align="center">
-  <a href="https://github.com/Nate222222/github-readme-streak-stats">
-    <img alt="Nate222222" src="https://github-readme-streak-stats.herokuapp.com/?user=Nate222222&theme=monokai-metallian&hide_border=true"/>
-  </a>
-  
-</p>
 
